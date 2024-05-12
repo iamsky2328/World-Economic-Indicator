@@ -1,4 +1,4 @@
-## **Project Title:** World Economic Indicator Analysis
+# **Project Title:** World Economic Indicator Analysis
 
 **Project Overview:**
 The "World Economic Indicator" project conducts a comprehensive analysis of global economic data using Excel tools such as charts, pivot tables, and filters. The project aims to extract meaningful insights from diverse economic metrics collected from CSV files representing various countries and indicators.
